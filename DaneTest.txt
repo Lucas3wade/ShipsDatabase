@@ -1,0 +1,82 @@
+Statek Kosmiczny
+Nazawa statku: 
+Omega
+Dlugosc statku: 
+15
+Wysokosc statku: 
+20
+Szerokosc statku: 
+33
+Rok produkcji statku: 
+2016
+Liczba silnikow: 
+4
+Liczba osob obslugujacych silniki: 
+1
+Liczba pracownikow: 
+3
+Pracownik[0]: 
+Armstrong
+Pracownik[1]: 
+Ainstein
+Pracownik[2]: 
+Kulbacki
+Miejsce wylotu:
+Mars
+Miejsce ladowania:
+Ziemia
+Statek Wodny Pasazerski
+Nazawa statku: 
+Baltyk
+Dlugosc statku: 
+300
+Wysokosc statku: 
+14
+Szerokosc statku: 
+30
+Rok produkcji statku: 
+2000
+Liczba silnikow: 
+7
+Liczba osob obslugujacych silniki: 
+9
+Liczba pracownikow: 
+0
+Brak pracownikow
+Liczbba kotwic: 
+3
+Rodzaj silnikow: 
+Spalinowe
+Liczba pokoi: 
+2
+Liczba pasazerow: 
+3
+Pasazer[0]: 
+Konopko
+Pasazer[1]: 
+Kowalski
+Pasazer[2]: 
+Nowak
+Statek Kosmiczny
+Nazawa statku: 
+Uber
+Dlugosc statku: 
+35
+Wysokosc statku: 
+10
+Szerokosc statku: 
+10
+Rok produkcji statku: 
+2017
+Liczba silnikow: 
+3
+Liczba osob obslugujacych silniki: 
+1
+Liczba pracownikow: 
+1
+Pracownik[0]: 
+Kowalska
+Miejsce wylotu:
+Ziemia
+Miejsce ladowania:
+Ksiezyc
