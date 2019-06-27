@@ -1,3 +1,5 @@
+Project was made in 2017 for subject: object programming basics in C++. Code was written in Polish. Programm let you contain information about ships in text file. Also you are able to read/write from/to file and insert, delete ships.
+
 ========================================================================
     CONSOLE APPLICATION : Proe - projekt statki Project Overview
 ========================================================================
